@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC_2023_03", "AoC_2023_03.csproj", "{BF206BEA-47A9-46D8-8ECC-7000CB682978}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC_2023_03", ""..\AoC_2023_03\AoC_2023_03\AoC_2023_03.csproj"", "{BF206BEA-47A9-46D8-8ECC-7000CB682978}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC_2023_03.Tests", "..\AoC_2023_03.Tests\AoC_2023_03.Tests.csproj", "{236662D2-CBB6-4C87-9120-E88A2EB6A2EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC_2023_03.Tests", ""..\AoC_2023_03\AoC_2023_03.Tests\AoC_2023_03.Tests.csproj"", "{236662D2-CBB6-4C87-9120-E88A2EB6A2EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
